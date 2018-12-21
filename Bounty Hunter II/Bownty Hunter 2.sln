@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bownty Hunter 2.CSharp", "Bownty Hunter 2.CSharp.csproj", "{9C7274FC-764A-9F7E-6315-805C448E9A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bownty Hunter 2.CSharp.Editor", "Bownty Hunter 2.CSharp.Editor.csproj", "{B955BEEB-50AC-E2DC-F450-4018081C53FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7274FC-764A-9F7E-6315-805C448E9A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7274FC-764A-9F7E-6315-805C448E9A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7274FC-764A-9F7E-6315-805C448E9A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7274FC-764A-9F7E-6315-805C448E9A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B955BEEB-50AC-E2DC-F450-4018081C53FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B955BEEB-50AC-E2DC-F450-4018081C53FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B955BEEB-50AC-E2DC-F450-4018081C53FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B955BEEB-50AC-E2DC-F450-4018081C53FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bounty Hunter 2", "Assembly-CSharp.csproj", "{17554C04-19B1-EE8D-5477-5A371F3A166D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bounty Hunter 2", "Assembly-CSharp-Editor.csproj", "{9349F7C1-D518-459E-F100-B580381095E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17554C04-19B1-EE8D-5477-5A371F3A166D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17554C04-19B1-EE8D-5477-5A371F3A166D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17554C04-19B1-EE8D-5477-5A371F3A166D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17554C04-19B1-EE8D-5477-5A371F3A166D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9349F7C1-D518-459E-F100-B580381095E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9349F7C1-D518-459E-F100-B580381095E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9349F7C1-D518-459E-F100-B580381095E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9349F7C1-D518-459E-F100-B580381095E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
